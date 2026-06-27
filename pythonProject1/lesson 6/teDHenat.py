@@ -1,0 +1,3 @@
+import matematika
+
+matematika.sayHello()
