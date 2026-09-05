@@ -7,7 +7,7 @@ age = 19 # ky eshte nje int
 
 x = 10
 y=5
-y="15"
+z="15"
 
 e = int(z)
 
