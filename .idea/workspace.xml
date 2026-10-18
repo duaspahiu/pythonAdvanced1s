@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97f21c9e-c6d1-4f8f-b499-95f7caf22a4e" name="Changes" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/pythonProject1/presson project i blinkpinkja/pink_heist.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pythonProject1/presson project i blinkpinkja/pink_strike.py" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/pythonProject1/data/xhevat.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject1/lesson 15/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject1/lesson 15/weather_tokyo_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject1/lesson 16/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject1/lesson 16/main.py" afterDir="false" />
+>>>>>>> 59e466312402beedbd43610828f18447e3ae06ed
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -104,6 +112,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Python._in_process.executor&quot;: &quot;Run&quot;,
@@ -129,14 +138,40 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
     &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+=======
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.interface.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Student/Desktop/pythonAdvanced1s/pythonProject1/lesson 14",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
+>>>>>>> 59e466312402beedbd43610828f18447e3ae06ed
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Student\Desktop\pythonAdvanced1s\pythonProject1\lesson 14" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Student\Desktop\pythonAdvanced1s\pythonProject1\lesson 15" />
+      <recent name="C:\Users\Student\Desktop\pythonAdvanced1s\pythonProject1\data" />
+      <recent name="C:\Users\Student\Desktop\pythonAdvanced1s\pythonProject1\lesson 13\vazhdim" />
+      <recent name="C:\Users\Student\Desktop\pythonAdvanced1s\pythonProject1\lesson 13" />
       <recent name="C:\Users\Student\Desktop\pythonAdvanced1s\pythonProject1\lesson 10\abstaction" />
-      <recent name="C:\Users\Student\Desktop\pythonAdvanced1s\pythonProject1\lesson 10\abstaction\enkapluslimi" />
     </key>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.pink_heist (1)">
     <configuration name="_in_process" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonAdvanced1s" />
@@ -163,6 +198,16 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+=======
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="PythonConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.main">
+>>>>>>> 59e466312402beedbd43610828f18447e3ae06ed
     <configuration name="interface" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonAdvanced1s" />
       <option name="ENV_FILES" value="" />
@@ -176,10 +221,8 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="C:\Users\Student\Desktop\pythonAdvanced1s\pythonProject1\lesson 10\abstaction\interface.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonProject1/lesson 10/abstaction/interface.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -188,7 +231,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="pink_heist (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+=======
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+>>>>>>> 59e466312402beedbd43610828f18447e3ae06ed
       <module name="pythonAdvanced1s" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -197,6 +244,7 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonProject1/presson project i blinkpinkja" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -282,6 +330,15 @@
       <option name="SCRIPT_NAME" value="C:\Users\PULSE Electronics\Desktop\pythonAdvanced1s\pythonProject1\presson project i blinkpinkja\python pink_heist_3d.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonProject1/lesson 15" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonProject1/lesson 15/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+>>>>>>> 59e466312402beedbd43610828f18447e3ae06ed
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -290,16 +347,20 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Python.pink_heist (1)" />
         <item itemvalue="Python._in_process" />
         <item itemvalue="Python.python pink_heist_3d" />
+=======
+        <item itemvalue="Python.main" />
+>>>>>>> 59e466312402beedbd43610828f18447e3ae06ed
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-73a66231627c-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.10968.92" />
+        <option value="bundled-python-sdk-98f27166c754-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.21829.153" />
       </set>
     </attachedChunks>
   </component>
