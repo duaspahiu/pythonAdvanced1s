@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97f21c9e-c6d1-4f8f-b499-95f7caf22a4e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pythonProject1/lesson 11/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject1/presson project i blinkpinkja/pink_heist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject1/presson project i blinkpinkja/pink_strike.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonProject1/lesson 11/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonProject1/lesson 11/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +36,65 @@
     &quot;accountId&quot;: &quot;daefe70a-a7b8-442c-9eb9-61cb7682fee0&quot;
   }
 }</component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000000000870117" />
+      <entry key="MS500" value="1.0097255801538292" />
+      <entry key="S2" value="1.317900204718038" />
+      <entry key="S5" value="1.76555650207911" />
+      <entry key="S10" value="2.2921768269272746" />
+      <entry key="S30" value="3.170885169537945" />
+      <entry key="S60" value="3.5379993460140895" />
+      <entry key="M2" value="3.7555682500107594" />
+      <entry key="M5" value="3.8987774807998368" />
+      <entry key="M10" value="3.948793748481025" />
+      <entry key="M15" value="3.9657287516933137" />
+      <entry key="M30" value="3.9827971161660107" />
+      <entry key="H1" value="3.991381670372711" />
+      <entry key="H2" value="3.995686604124061" />
+      <entry key="H4" value="3.9978422431523613" />
+      <entry key="D1" value="3.999640226690728" />
+      <entry key="W1" value="3.999948600207578" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="4.517187376351341E-8" />
+      <entry key="MS500" value="0.03397985902119859" />
+      <entry key="S2" value="0.4993068067898314" />
+      <entry key="S5" value="1.179976101751555" />
+      <entry key="S10" value="1.904898153286646" />
+      <entry key="S30" value="3.00398769239315" />
+      <entry key="S60" value="3.4475829450863724" />
+      <entry key="M2" value="3.7083591256122106" />
+      <entry key="M5" value="3.8793748576200406" />
+      <entry key="M10" value="3.939002444897462" />
+      <entry key="M15" value="3.9591809485652303" />
+      <entry key="M30" value="3.9795130125892464" />
+      <entry key="H1" value="3.9897370551767377" />
+      <entry key="H2" value="3.9948636540526405" />
+      <entry key="H4" value="3.997430607295069" />
+      <entry key="D1" value="3.9995715983609075" />
+      <entry key="W1" value="3.9999387956128" />
+    </decayedShown>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 3
@@ -47,7 +106,11 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Python._in_process.executor&quot;: &quot;Run&quot;,
     &quot;Python.interface.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pink_heist (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.pink_heist.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python pink_heist_3d (1).executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
@@ -58,8 +121,10 @@
     &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/PULSE Electronics/Desktop/pythonAdvanced1s&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
@@ -72,7 +137,32 @@
       <recent name="C:\Users\Student\Desktop\pythonAdvanced1s\pythonProject1\lesson 10\abstaction\enkapluslimi" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.pink_heist (1)">
+    <configuration name="_in_process" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonAdvanced1s" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.venv/Lib/site-packages/pip/_vendor/pyproject_hooks/_in_process" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.venv/Lib/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="interface" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonAdvanced1s" />
       <option name="ENV_FILES" value="" />
@@ -98,6 +188,113 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="pink_heist (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonAdvanced1s" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonProject1/presson project i blinkpinkja" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonProject1/presson project i blinkpinkja/pink_heist.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pink_heist" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonAdvanced1s" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonProject1/presson project i blinkpinkja" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="C:\Users\PULSE Electronics\Desktop\pythonAdvanced1s\pythonProject1\presson project i blinkpinkja\pink_heist.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pink_heist" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonAdvanced1s" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonProject1/presson project i blinkpinkja" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="C:\Users\PULSE Electronics\Desktop\pythonAdvanced1s\pythonProject1\presson project i blinkpinkja\pink_heist.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="python pink_heist_3d" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonAdvanced1s" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonProject1/presson project i blinkpinkja" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="C:\Users\PULSE Electronics\Desktop\pythonAdvanced1s\pythonProject1\presson project i blinkpinkja\python pink_heist_3d.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.pink_heist (1)" />
+        <item itemvalue="Python._in_process" />
+        <item itemvalue="Python.python pink_heist_3d" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -118,10 +315,17 @@
       <workItem from="1790540655758" duration="348000" />
       <workItem from="1791029203707" duration="21000" />
       <workItem from="1791332702562" duration="5000" />
+      <workItem from="1792236831582" duration="200000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pythonAdvanced1s$pink_heist.coverage" NAME="pink_heist Coverage Results" MODIFIED="1791872223593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonProject1/presson project i blinkpinkja" />
+    <SUITE FILE_PATH="coverage/pythonAdvanced1s$python_pink_heist_3d__1_.coverage" NAME="python pink_heist_3d (1) Coverage Results" MODIFIED="1791874055993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonProject1/presson project i blinkpinkja" />
+    <SUITE FILE_PATH="coverage/pythonAdvanced1s$_in_process.coverage" NAME="_in_process Coverage Results" MODIFIED="1791872276725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/site-packages/pip/_vendor/pyproject_hooks/_in_process" />
+    <SUITE FILE_PATH="coverage/pythonAdvanced1s$pink_heist__1_.coverage" NAME="pink_heist (1) Coverage Results" MODIFIED="1792024999589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonProject1/presson project i blinkpinkja" />
   </component>
 </project>
